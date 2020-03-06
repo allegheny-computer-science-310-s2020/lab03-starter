@@ -1,11 +1,11 @@
-# Report by Add Your Names Here
+# Report by Your Names
 
-### Progress Update
+### Progress Update (due on March 13 by 4:30pm)
 TODO:
 In one paragraph describe the tasks you have accomplished during week 1 of the labs.  
 
-### Completed Timeline
-TODO: Due at lab completion time
+### Completed Timeline (Due at lab completion date, by March 27)
+TODO:
 
 | Timeline  | Tasks |
 | ----------- | ----------- |
